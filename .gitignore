@@ -1,0 +1,25 @@
+node_modules
+dist
+.tmp
+.sass-cache
+server/public/components
+server/public/js/compiled
+server/public/css
+config.overrides.json
+*.logs
+*.sublime-*
+
+
+#OSX IGNORE
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
