@@ -48,161 +48,158 @@ module.exports = [
     parse: parseFour
   },
 
-  // {
-  //   tags: ['Exodus', 'Morning', 'Sermon'],
-  //   page: 'sermons_exodus.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseExodus
-  // },
+  {
+    tags: ['Exodus', 'Morning', 'Sermon'],
+    page: 'sermons_exodus.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseExodus
+  },
 
-  // {
-  //   tags: ['Gospel of Luke', 'Morning', 'Sermon'],
-  //   page: 'sermons_luke.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFour
-  // },
+  {
+    tags: ['Gospel of Luke', 'Morning', 'Sermon'],
+    page: 'sermons_luke.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseFour
+  },
 
-  // {
-  //   tags: ['Gospel of John', 'Evening', 'Sermon'],
-  //   page: 'sermons_john.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFour
-  // },
+  {
+    tags: ['Gospel of John', 'Evening', 'Sermon'],
+    page: 'sermons_john.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseFour
+  },
 
-  // {
-  //   tags: ['Drama of Redemption', 'Morning', 'Sermon'],
-  //   page: 'sermons_redemption.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFour
-  // },
+  {
+    tags: ['Drama of Redemption', 'Morning', 'Sermon'],
+    page: 'sermons_redemption.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseFour
+  },
 
-  // {
-  //   tags: [],
-  //   page: 'sermons_single.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFourTopical
-  // },
+  {
+    tags: [],
+    page: 'sermons_single.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseFourTopical
+  },
 
-  // {
-  //   tags: ['Sermon'],
-  //   page: 'sermons_horton.html',
-  //   defaultSpeaker: 'Rev. Dr. Michael Horton',
-  //   parse: parseHorton
-  // },
+  {
+    tags: ['Sermon'],
+    page: 'sermons_horton.html',
+    defaultSpeaker: 'Rev. Dr. Michael Horton',
+    parse: parseHorton
+  },
 
-  // {
-  //   tags: ['Seasonal', 'Sermon'],
-  //   page: 'sermons_seasonal.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFourSeasonal
-  // },
+  {
+    tags: ['Seasonal', 'Sermon'],
+    page: 'sermons_seasonal.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseFourSeasonal
+  },
 
-  // {
-  //   tags: ['Psalms', 'Evening', 'Sermon'],
-  //   page: 'sermons_psalms.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseThreePsalms
-  // },
+  {
+    tags: ['Psalms', 'Evening', 'Sermon'],
+    page: 'sermons_psalms.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseThreePsalms
+  },
 
-  // {
-  //   tags: ['Acts of the Apostles', 'Evening', 'Sermon'],
-  //   page: 'sermons_acts.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseThree
-  // },
+  {
+    tags: ['Acts of the Apostles', 'Evening', 'Sermon'],
+    page: 'sermons_acts.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseThree
+  },
 
-  // {
-  //   tags: ['Doctrines of Grace', 'Evening', 'Sermon'],
-  //   page: 'sermons_dort.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseThreeGrace
-  // },
+  {
+    tags: ['Doctrines of Grace', 'Evening', 'Sermon'],
+    page: 'sermons_dort.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseThreeGrace
+  },
 
-  // {
-  //   tags: ['Church Officers', 'Evening', 'Sermon'],
-  //   page: 'sermons_officers.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseThreeOfficers
-  // },
+  {
+    tags: ['Church Officers', 'Evening', 'Sermon'],
+    page: 'sermons_officers.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseThreeOfficers
+  },
 
-  // {
-  //   tags: ['Colossians', 'Morning', 'Sermon'],
-  //   page: 'sermons_colossians.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFour
-  // },
+  {
+    tags: ['Colossians', 'Morning', 'Sermon'],
+    page: 'sermons_colossians.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseFour
+  },
 
-  // {
-  //   tags: ['Galatians', 'Morning', 'Sermon'],
-  //   page: 'sermons_galatians.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFour
-  // },
+  {
+    tags: ['Galatians', 'Morning', 'Sermon'],
+    page: 'sermons_galatians.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseFour
+  },
 
-  // {
-  //   tags: ['Hebrews', 'Morning', 'Sermon'],
-  //   page: 'sermons_hebrews.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFour
-  // },
+  {
+    tags: ['Hebrews', 'Morning', 'Sermon'],
+    page: 'sermons_hebrews.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseFour
+  },
 
-  // {
-  //   tags: ['Heidelberg Catechism', 'Evening', 'Sermon'],
-  //   page: 'sermons_heidelberg.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseHeidelberg
-  // },
+  {
+    tags: ['Heidelberg Catechism', 'Evening', 'Sermon'],
+    page: 'sermons_heidelberg.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseHeidelberg
+  },
 
-  // {
-  //   tags: ['Leadership', 'Evening', 'Sermon'],
-  //   page: 'sermons_leadership.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseThreeGrace
-  // },
+  {
+    tags: ['Leadership', 'Evening', 'Sermon'],
+    page: 'sermons_leadership.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseThreeGrace
+  },
 
-  // {
-  //   tags: ['Philemon', 'Evening', 'Sermon'],
-  //   page: 'sermons_philemon.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseThreeGrace
-  // },
+  {
+    tags: ['Philemon', 'Evening', 'Sermon'],
+    page: 'sermons_philemon.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseThreeGrace
+  },
 
-  // {
-  //   tags: ['Philippians', 'Evening', 'Sermon'],
-  //   page: 'sermons_philippians.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseThreeGrace
-  // },
+  {
+    tags: ['Philippians', 'Evening', 'Sermon'],
+    page: 'sermons_philippians.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseThreeGrace
+  },
 
-  // {
-  //   tags: ['Prayer', 'Sermon'],
-  //   page: 'sermons_prayer.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFour
-  // },
+  {
+    tags: ['Prayer', 'Sermon'],
+    page: 'sermons_prayer.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseFour
+  },
 
-  // {
-  //   tags: ['2 Timothy', 'Evening', 'Sermon'],
-  //   page: 'sermons_second_timothy.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFour
-  // },
+  {
+    tags: ['2 Timothy', 'Evening', 'Sermon'],
+    page: 'sermons_second_timothy.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseFour
+  },
 
-  // {
-  //   tags: ['Zechariah', 'Evening', 'Sermon'],
-  //   page: 'sermons_zechariah.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseThreeGrace
-  // },
+  {
+    tags: ['Zechariah', 'Evening', 'Sermon'],
+    page: 'sermons_zechariah.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseThreeGrace
+  },
 
-  // {
-  //   tags: ['Sermon'],
-  //   page: 'sermons.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseSermons
-  // }
+  {
+    tags: ['Sermon'],
+    page: 'sermons.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseSermons
+  }
 
 ];
-
-// var vintage = 'sermons.html';
-// sermons_zechariah.html

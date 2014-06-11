@@ -18,7 +18,6 @@ exports.parse = function(html, sermonPage) {
     // check if this is a series title
     if(strong.length){
       series = strong.text().replace(',', '').replace(/\s+/, ' ');
-      console.log('SERIES FOUND: %s', series);
       return;
     }
 
