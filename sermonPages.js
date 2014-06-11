@@ -6,9 +6,11 @@ var parseThreeGrace = require('./formats/threeColumnGrace').parse;
 var parseThreePsalms = require('./formats/threeColumnPsalms').parse;
 var parseThreeOfficers = require('./formats/threeColumnOfficers').parse;
 var parseThreeCatechismHorton = require('./formats/threeColumnCatechismHorton').parse;
-var parseThreeGuest = require('./formats/threeColumnGuest').parse
-var parseSermons = require('./formats/sermons').parse
-var parseHeidelberg = require('./formats/heidelberg').parse
+var parseThreeGuest = require('./formats/threeColumnGuest').parse;
+var parseSermons = require('./formats/sermons').parse;
+var parseHeidelberg = require('./formats/heidelberg').parse;
+var parseHorton = require('./formats/horton').parse;
+var parseExodus = require('./formats/exodus').parse;
 var defaultSpeaker = 'Rev. Michael Brown';
 
 module.exports = [
@@ -46,12 +48,12 @@ module.exports = [
   //   parse: parseFour
   // },
 
-  // {
-  //   tags: ['Exodus', 'Morning', 'Sermon'],
-  //   page: 'sermons_exodus.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFour
-  // },
+  {
+    tags: ['Exodus', 'Morning', 'Sermon'],
+    page: 'sermons_exodus.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseExodus
+  },
 
   // {
   //   tags: ['Gospel of Luke', 'Morning', 'Sermon'],
@@ -75,25 +77,25 @@ module.exports = [
   // },
 
   // {
-  //   tags: ['Topical', 'Sermon'],
+  //   tags: [],
   //   page: 'sermons_single.html',
   //   defaultSpeaker: defaultSpeaker,
   //   parse: parseFourTopical
   // },
 
   // {
-  //   tags: ['Sermons by Dr. Horton', 'Sermon'],
+  //   tags: ['Sermon'],
   //   page: 'sermons_horton.html',
   //   defaultSpeaker: 'Rev. Dr. Michael Horton',
-  //   parse: parseThree
+  //   parse: parseHorton
   // },
 
-  {
-    tags: ['Seasonal', 'Sermon'],
-    page: 'sermons_seasonal.html',
-    defaultSpeaker: defaultSpeaker,
-    parse: parseFourSeasonal
-  },
+  // {
+  //   tags: ['Seasonal', 'Sermon'],
+  //   page: 'sermons_seasonal.html',
+  //   defaultSpeaker: defaultSpeaker,
+  //   parse: parseFourSeasonal
+  // },
 
   // {
   //   tags: ['Psalms', 'Evening', 'Sermon'],
