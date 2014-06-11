@@ -25,5 +25,6 @@ _.each(sermonsPages, function(item) {
     }
 
     fs.writeFile(outputFile, JSON.stringify(assets, null, '  '));
+    console.log('Assets found: %s', assets.length);
   });
 });

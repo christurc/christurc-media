@@ -8,6 +8,7 @@ var parseThreeOfficers = require('./formats/threeColumnOfficers').parse;
 var parseThreeCatechismHorton = require('./formats/threeColumnCatechismHorton').parse;
 var parseThreeGuest = require('./formats/threeColumnGuest').parse
 var parseSermons = require('./formats/sermons').parse
+var parseHeidelberg = require('./formats/heidelberg').parse
 var defaultSpeaker = 'Rev. Michael Brown';
 
 module.exports = [
@@ -139,12 +140,11 @@ module.exports = [
   //   parse: parseFour
   // },
 
-  //  // needs a bit of manual work
   // {
   //   tags: ['Heidelberg Catechism', 'Evening', 'Sermon'],
   //   page: 'sermons_heidelberg.html',
   //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFour
+  //   parse: parseHeidelberg
   // },
 
   //  // needs a bit of manual work
@@ -190,12 +190,12 @@ module.exports = [
   //   parse: parseThreeGrace
   // },
 
-  {
-    tags: ['Sermon'],
-    page: 'sermons.html',
-    defaultSpeaker: defaultSpeaker,
-    parse: parseSermons
-  }
+  // {
+  //   tags: ['Sermon'],
+  //   page: 'sermons.html',
+  //   defaultSpeaker: defaultSpeaker,
+  //   parse: parseSermons
+  // }
 
 ];
 
