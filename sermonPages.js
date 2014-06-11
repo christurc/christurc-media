@@ -41,19 +41,19 @@ module.exports = [
 
   // **** these should be good
 
-  // {
-  //   tags: ['Genesis', 'Morning', 'Sermon'],
-  //   page: 'sermons_genesis.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFour
-  // },
-
   {
-    tags: ['Exodus', 'Morning', 'Sermon'],
-    page: 'sermons_exodus.html',
+    tags: ['Genesis', 'Morning', 'Sermon'],
+    page: 'sermons_genesis.html',
     defaultSpeaker: defaultSpeaker,
-    parse: parseExodus
+    parse: parseFour
   },
+
+  // {
+  //   tags: ['Exodus', 'Morning', 'Sermon'],
+  //   page: 'sermons_exodus.html',
+  //   defaultSpeaker: defaultSpeaker,
+  //   parse: parseExodus
+  // },
 
   // {
   //   tags: ['Gospel of Luke', 'Morning', 'Sermon'],

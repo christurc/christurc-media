@@ -28,7 +28,7 @@ _.each(sermonsPages, function(item) {
 
     _.each(assets, function(asset){
       // console.log(asset.passages);
-      console.log(asset.title);
+      // console.log(asset.title);
       // console.log(asset.speaker);
 
     });
