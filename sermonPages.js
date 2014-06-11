@@ -12,6 +12,33 @@ var parseHeidelberg = require('./formats/heidelberg').parse
 var defaultSpeaker = 'Rev. Michael Brown';
 
 module.exports = [
+
+  // **** these need some manual work
+
+  // {
+  //   tags: ['Catechism', 'Guest Speaker'],
+  //   page: 'sermons_guest.html',
+  //   defaultSpeaker: '',
+  //   parse: parseThreeGuest
+  // },
+
+  // {
+  //   tags: ['Catechism', 'Interns'],
+  //   page: 'sermons_interns.html',
+  //   defaultSpeaker: '',
+  //   parse: parseThreeGuest
+  // },
+
+  // {
+  //   tags: ['Catechism', 'Sunday School'],
+  //   page: 'catechism_horton.html',
+  //   defaultSpeaker: 'Rev. Dr. Michael Horton',
+  //   parse: parseThreeCatechismHorton
+  // },
+
+
+  // **** these should be good
+
   // {
   //   tags: ['Genesis', 'Morning', 'Sermon'],
   //   page: 'sermons_genesis.html',
@@ -61,12 +88,12 @@ module.exports = [
   //   parse: parseThree
   // },
 
-  // {
-  //   tags: ['Seasonal', 'Sermon'],
-  //   page: 'sermons_seasonal.html',
-  //   defaultSpeaker: defaultSpeaker,
-  //   parse: parseFourSeasonal
-  // },
+  {
+    tags: ['Seasonal', 'Sermon'],
+    page: 'sermons_seasonal.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseFourSeasonal
+  },
 
   // {
   //   tags: ['Psalms', 'Evening', 'Sermon'],
@@ -97,29 +124,6 @@ module.exports = [
   // },
 
   // {
-  //   tags: ['Catechism', 'Sunday School'],
-  //   page: 'catechism_horton.html',
-  //   defaultSpeaker: 'Rev. Dr. Michael Horton',
-  //   parse: parseThreeCatechismHorton
-  // },
-
-  // // this one needs some manual work
-  // {
-  //   tags: ['Catechism', 'Guest Speaker'],
-  //   page: 'sermons_guest.html',
-  //   defaultSpeaker: '',
-  //   parse: parseThreeGuest
-  // },
-
-  // // this one needs some manual work
-  // {
-  //   tags: ['Catechism', 'Interns'],
-  //   page: 'sermons_interns.html',
-  //   defaultSpeaker: '',
-  //   parse: parseThreeGuest
-  // },
-
-  // {
   //   tags: ['Colossians', 'Morning', 'Sermon'],
   //   page: 'sermons_colossians.html',
   //   defaultSpeaker: defaultSpeaker,
@@ -147,7 +151,6 @@ module.exports = [
   //   parse: parseHeidelberg
   // },
 
-  //  // needs a bit of manual work
   // {
   //   tags: ['Leadership', 'Evening', 'Sermon'],
   //   page: 'sermons_leadership.html',

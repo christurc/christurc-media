@@ -19,6 +19,11 @@ exports.parse = function(html, sermonPage) {
     }
 
     var tds = $('td', $tr);
+
+    if(!tds.length) {
+      return;
+    }
+
     var asset = {
       date: tds.eq(0).text(),
       passages: [],
@@ -37,12 +42,19 @@ exports.parse = function(html, sermonPage) {
       return;
     }
 
+    if(asset.date === '12/23/2007') {
+      asset.title = 'The All-Sufficient God';
+      asset.tags.push('Advent 4th Sunday');
+      assets.push(asset);
+      return;
+    }
+
     // <tag> — <title> — <speaker>
     var matches = /^(.+?)( ?\- ?| ?— ?| ?– ?)(.+?)( ?\- ?| ?— ?| ?– ?)(.*?)$/.exec(asset.title);
     if(matches) {
       asset.tags.push(matches[1].trim());
       // trim slanted double quotes
-      asset.title = matches[2].replace(/“|”/g, '').trim();
+      asset.title = matches[3].replace(/“|”/g, '').trim();
       asset.speaker = matches[5].trim();
     }
     else {

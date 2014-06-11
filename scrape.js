@@ -25,6 +25,14 @@ _.each(sermonsPages, function(item) {
     }
 
     fs.writeFile(outputFile, JSON.stringify(assets, null, '  '));
+
+    _.each(assets, function(asset){
+      // console.log(asset.passages);
+      // console.log(asset.title);
+      // console.log(asset.speaker);
+
+    });
+
     console.log('Assets found: %s', assets.length);
   });
 });

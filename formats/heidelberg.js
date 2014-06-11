@@ -44,7 +44,6 @@ exports.parse = function(html, sermonPage) {
     }
 
     asset.title = asset.title.replace(/\"/g, '');
-    console.log(asset.passages);
     assets.push(asset);
   });
 
