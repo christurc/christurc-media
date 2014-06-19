@@ -25,7 +25,8 @@ exports.parse = function(html, sermonPage) {
       title: fixWhiteSpace(tds.eq(2).text()),
       uri: $('a.link', tds).attr('href') || $('a', tds).attr('href'),
       speaker: sermonPage.defaultSpeaker,
-      tags: sermonPage.tags.slice(0)
+      tags: sermonPage.tags.slice(0),
+      categories: sermonPage.categories
     };
 
     // trim double quotes

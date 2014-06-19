@@ -24,7 +24,8 @@ exports.parse = function(html, sermonPage) {
       title: fixWhiteSpace(tds.eq(1).text()),
       uri: tds.eq(2).find('a').attr('href'),
       speaker: sermonPage.defaultSpeaker,
-      tags: sermonPage.tags.slice(0)
+      tags: sermonPage.tags.slice(0),
+      categories: sermonPage.categories
     };
 
     // <speaker> - <passage>

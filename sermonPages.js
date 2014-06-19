@@ -42,48 +42,55 @@ module.exports = [
   // **** these should be good
 
   {
-    tags: ['Genesis', 'Morning', 'Sermon'],
+    categories: ['Genesis'],
+    tags: ['Sermon'],
     page: 'sermons_genesis.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
   },
 
   {
-    tags: ['Exodus', 'Morning', 'Sermon'],
+    categories: ['Exodus'],
+    tags: ['Sermon'],
     page: 'sermons_exodus.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseExodus
   },
 
   {
-    tags: ['Gospel of Luke', 'Morning', 'Sermon'],
+    categories: ['Gospel of Luke'],
+    tags: ['Sermon'],
     page: 'sermons_luke.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
   },
 
   {
-    tags: ['Gospel of John', 'Evening', 'Sermon'],
+    categories: ['Gospel of John'],
+    tags: ['Sermon'],
     page: 'sermons_john.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
   },
 
   {
-    tags: ['Drama of Redemption', 'Morning', 'Sermon'],
+    categories: ['Drama of Redemption'],
+    tags: ['Sermon'],
     page: 'sermons_redemption.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
   },
 
   {
-    tags: [],
+    categories: [],
+    tags: ['Sermon'],
     page: 'sermons_single.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFourTopical
   },
 
   {
+    categories: [],
     tags: ['Sermon'],
     page: 'sermons_horton.html',
     defaultSpeaker: 'Rev. Dr. Michael Horton',
@@ -91,115 +98,130 @@ module.exports = [
   },
 
   {
-    tags: ['Seasonal', 'Sermon'],
+    categories: ['Seasonal'],
+    tags: ['Sermon'],
     page: 'sermons_seasonal.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFourSeasonal
   },
 
   {
-    tags: ['Psalms', 'Evening', 'Sermon'],
+    categories: ['Psalms'],
+    tags: ['Sermon'],
     page: 'sermons_psalms.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreePsalms
   },
 
   {
-    tags: ['Acts of the Apostles', 'Evening', 'Sermon'],
+    categories: ['Acts of the Apostles'],
+    tags: ['Sermon'],
     page: 'sermons_acts.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThree
   },
 
   {
-    tags: ['Doctrines of Grace', 'Evening', 'Sermon'],
+    categories: ['Doctrines of Grace'],
+    tags: ['Sermon'],
     page: 'sermons_dort.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreeGrace
   },
 
   {
-    tags: ['Church Officers', 'Evening', 'Sermon'],
+    categories: ['Church Officers'],
+    tags: ['Sermon'],
     page: 'sermons_officers.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreeOfficers
   },
 
   {
-    tags: ['Colossians', 'Morning', 'Sermon'],
+    categories: ['Colossians'],
+    tags: ['Sermon'],
     page: 'sermons_colossians.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
   },
 
   {
-    tags: ['Galatians', 'Morning', 'Sermon'],
+    categories: ['Galatians'],
+    tags: ['Sermon'],
     page: 'sermons_galatians.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
   },
 
   {
-    tags: ['Hebrews', 'Morning', 'Sermon'],
+    categories: ['Hebrews'],
+    tags: ['Sermon'],
     page: 'sermons_hebrews.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
   },
 
   {
-    tags: ['Heidelberg Catechism', 'Evening', 'Sermon'],
+    categories: ['Heidelberg Catechism'],
+    tags: ['Sermon'],
     page: 'sermons_heidelberg.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseHeidelberg
   },
 
   {
-    tags: ['Leadership', 'Evening', 'Sermon'],
+    categories: ['Leadership'],
+    tags: ['Sermon'],
     page: 'sermons_leadership.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreeGrace
   },
 
   {
-    tags: ['Philemon', 'Evening', 'Sermon'],
+    categories: ['Philemon'],
+    tags: ['Sermon'],
     page: 'sermons_philemon.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreeGrace
   },
 
   {
-    tags: ['Philippians', 'Evening', 'Sermon'],
+    categories: ['Philippians'],
+    tags: ['Sermon'],
     page: 'sermons_philippians.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreeGrace
   },
 
   {
-    tags: ['Prayer', 'Sermon'],
+    categories: ['Prayer'],
+    tags: ['Sermon'],
     page: 'sermons_prayer.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
   },
 
   {
-    tags: ['2 Timothy', 'Evening', 'Sermon'],
+    categories: ['2 Timothy'],
+    tags: ['Sermon'],
     page: 'sermons_second_timothy.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
   },
 
   {
-    tags: ['Zechariah', 'Evening', 'Sermon'],
+    categories: ['Zechariah'],
+    tags: ['Sermon'],
     page: 'sermons_zechariah.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreeGrace
   },
 
   {
+    categories: [],
     tags: ['Sermon'],
     page: 'sermons.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseSermons
   }
-
 ];

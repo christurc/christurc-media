@@ -31,13 +31,15 @@ exports.parse = function(html, sermonPage) {
 
     var asset = {
       date: matches[5],
-      passages: matches[1],
+      passages: [matches[1]],
       title: matches[3],
       uri: $('a.link', tds).attr('href') || $('a', tds).attr('href'),
       speaker: sermonPage.defaultSpeaker,
       tags: sermonPage.tags.slice(0),
-      categories: [series]
+      categories: sermonPage.categories.slice(0)
     };
+
+    asset.categories.push(series.trim());
 
     // asset.passages.push(fixWhiteSpace(tds.eq(1).text()).trim());
 

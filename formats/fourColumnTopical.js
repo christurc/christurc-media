@@ -25,7 +25,8 @@ exports.parse = function(html, sermonPage) {
       title: fixWhiteSpace(tds.eq(2).text()),
       uri: $('a.link', tds).attr('href') || $('a', tds).attr('href'),
       speaker: 'Rev. Michael Brown',
-      tags: sermonPage.tags.slice(0)
+      tags: sermonPage.tags.slice(0),
+      categories: sermonPage.categories
     };
 
     asset.passages.push(fixWhiteSpace(tds.eq(1).text()).trim());

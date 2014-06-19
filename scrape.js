@@ -6,6 +6,10 @@ var completed = 0;
 var fs = require('fs');
 var outputFile = 'assets.json';
 var sermonsPages = require('./sermonPages');
+var cleanupAuthors = require('./maps/cleanupAuthors').map;
+var tags = require('./maps/tags').map;
+var categories = require('./maps/categories').map;
+var passages = require('./maps/passages').map;
 
 _.each(sermonsPages, function(item) {
   console.log('Requesting Item: ' + item.page);
@@ -24,14 +28,12 @@ _.each(sermonsPages, function(item) {
       return;
     }
 
+    cleanupAuthors(assets);
+    passages(assets);
+    tags(assets);
+    categories(assets);
+
     fs.writeFile(outputFile, JSON.stringify(assets, null, '  '));
-
-    _.each(assets, function(asset){
-      // console.log(asset.passages);
-      // console.log(asset.title);
-      // console.log(asset.speaker);
-
-    });
 
     console.log('Assets found: %s', assets.length);
   });
