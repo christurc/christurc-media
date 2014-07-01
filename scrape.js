@@ -10,6 +10,16 @@ var cleanupAuthors = require('./maps/cleanupAuthors').map;
 var tags = require('./maps/tags').map;
 var categories = require('./maps/categories').map;
 var passages = require('./maps/passages').map;
+var dates = require('./maps/dates').map;
+var guestSermons = require("./sermons_guest");
+
+function transform(assets) {
+    dates(assets);
+    cleanupAuthors(assets);
+    passages(assets);
+    tags(assets);
+    categories(assets);
+}
 
 _.each(sermonsPages, function(item) {
   console.log('Requesting Item: ' + item.page);
@@ -28,13 +38,12 @@ _.each(sermonsPages, function(item) {
       return;
     }
 
-    cleanupAuthors(assets);
-    passages(assets);
-    tags(assets);
-    categories(assets);
+    assets = assets.concat(guestSermons);
+    transform(assets);
 
     fs.writeFile(outputFile, JSON.stringify(assets, null, '  '));
 
     console.log('Assets found: %s', assets.length);
   });
 });
+

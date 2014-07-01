@@ -29,21 +29,17 @@ exports.parse = function(html, sermonPage) {
     };
 
     // <speaker> - <passage>
-    var matches = /^(.+?)( ?— ?| ?– ?)(.+)$/.exec(asset.title);
+    var matches = /^(.+?)( ?— ?| ?– ?)(.+?)( ?— ?| ?– ?)(.*?)$/.exec(asset.title);
+
     if(matches) {
       // trim slanted double quotes
       asset.speaker = matches[1];
       asset.title = matches[3].replace(/“|”/g, '').trim();
+      asset.passages.push(matches[5]);
     }
 
     // trim double quotes
     asset.title = asset.title.replace(/\"/g, '');
-
-    if(asset.title.indexOf('(AM)'))
-      asset.tags.push('Morning');
-
-    if(asset.title.indexOf('(PM)'))
-      asset.tags.push('Evening');
 
     assets.push(asset);
   });

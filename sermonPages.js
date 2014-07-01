@@ -18,32 +18,34 @@ module.exports = [
   // **** these need some manual work
 
   // {
-  //   tags: ['Catechism', 'Guest Speaker'],
+  //   tags: [],
+  //   categories: [],
   //   page: 'sermons_guest.html',
   //   defaultSpeaker: '',
   //   parse: parseThreeGuest
-  // },
+  // }
 
   // {
-  //   tags: ['Catechism', 'Interns'],
+  //   tags: [],
+  //   categories: [],
   //   page: 'sermons_interns.html',
   //   defaultSpeaker: '',
   //   parse: parseThreeGuest
   // },
 
   // {
-  //   tags: ['Catechism', 'Sunday School'],
+  //   tags: [],
+  //   categories: [],
   //   page: 'catechism_horton.html',
   //   defaultSpeaker: 'Rev. Dr. Michael Horton',
   //   parse: parseThreeCatechismHorton
-  // },
-
+  // }
 
   // **** these should be good
 
   {
     categories: ['Genesis'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_genesis.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
@@ -51,7 +53,7 @@ module.exports = [
 
   {
     categories: ['Exodus'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_exodus.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseExodus
@@ -59,7 +61,7 @@ module.exports = [
 
   {
     categories: ['Gospel of Luke'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_luke.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
@@ -67,7 +69,7 @@ module.exports = [
 
   {
     categories: ['Gospel of John'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_john.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
@@ -75,7 +77,7 @@ module.exports = [
 
   {
     categories: ['Drama of Redemption'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_redemption.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
@@ -83,7 +85,7 @@ module.exports = [
 
   {
     categories: [],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_single.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFourTopical
@@ -91,7 +93,7 @@ module.exports = [
 
   {
     categories: [],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_horton.html',
     defaultSpeaker: 'Rev. Dr. Michael Horton',
     parse: parseHorton
@@ -99,7 +101,7 @@ module.exports = [
 
   {
     categories: ['Seasonal'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_seasonal.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFourSeasonal
@@ -107,7 +109,7 @@ module.exports = [
 
   {
     categories: ['Psalms'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_psalms.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreePsalms
@@ -115,7 +117,7 @@ module.exports = [
 
   {
     categories: ['Acts of the Apostles'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_acts.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThree
@@ -123,7 +125,7 @@ module.exports = [
 
   {
     categories: ['Doctrines of Grace'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_dort.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreeGrace
@@ -131,7 +133,7 @@ module.exports = [
 
   {
     categories: ['Church Officers'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_officers.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreeOfficers
@@ -139,7 +141,7 @@ module.exports = [
 
   {
     categories: ['Colossians'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_colossians.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
@@ -147,7 +149,7 @@ module.exports = [
 
   {
     categories: ['Galatians'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_galatians.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
@@ -155,7 +157,7 @@ module.exports = [
 
   {
     categories: ['Hebrews'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_hebrews.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
@@ -163,7 +165,7 @@ module.exports = [
 
   {
     categories: ['Heidelberg Catechism'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_heidelberg.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseHeidelberg
@@ -171,7 +173,7 @@ module.exports = [
 
   {
     categories: ['Leadership'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_leadership.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreeGrace
@@ -179,7 +181,7 @@ module.exports = [
 
   {
     categories: ['Philemon'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_philemon.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreeGrace
@@ -187,7 +189,7 @@ module.exports = [
 
   {
     categories: ['Philippians'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_philippians.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreeGrace
@@ -195,7 +197,7 @@ module.exports = [
 
   {
     categories: ['Prayer'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_prayer.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
@@ -203,7 +205,7 @@ module.exports = [
 
   {
     categories: ['2 Timothy'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_second_timothy.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseFour
@@ -211,7 +213,7 @@ module.exports = [
 
   {
     categories: ['Zechariah'],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons_zechariah.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseThreeGrace
@@ -219,7 +221,7 @@ module.exports = [
 
   {
     categories: [],
-    tags: ['Sermon'],
+    tags: [],
     page: 'sermons.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseSermons
