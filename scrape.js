@@ -12,6 +12,7 @@ var categories = require('./maps/categories').map;
 var passages = require('./maps/passages').map;
 var dates = require('./maps/dates').map;
 var guestSermons = require("./sermons_guest");
+var internSermons = require("./sermons_interns");
 
 function transform(assets) {
     dates(assets);
@@ -39,6 +40,7 @@ _.each(sermonsPages, function(item) {
     }
 
     assets = assets.concat(guestSermons);
+    assets = assets.concat(internSermons);
     transform(assets);
 
     fs.writeFile(outputFile, JSON.stringify(assets, null, '  '));

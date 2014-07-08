@@ -1,0 +1,982 @@
+[
+  {
+    "date": "01/26/2014",
+    "passages": [
+      "Titus 2:1-15"
+    ],
+    "title": "Doctrine Driven Discipleship",
+    "uri": "http://audio.christurc.org/sermons/2014-01-26-vander_pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "01/19/2014",
+    "passages": [
+      "Titus 1:5-16"
+    ],
+    "title": "God's Good Gift...of Elders",
+    "uri": "http://audio.christurc.org/sermons/2014-01-19-vander_pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "01/12/2014",
+    "passages": [
+      "Titus 1:1-4"
+    ],
+    "title": "Purpose of Pastors",
+    "uri": "http://audio.christurc.org/sermons/2014-01-12-vander_pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "01/05/2014",
+    "passages": [
+      "Psalm 119:33-40"
+    ],
+    "title": "Resolutions of the Righteous",
+    "uri": "http://audio.christurc.org/sermons/2014-01-05-vander_pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "11/17/2013",
+    "passages": [
+      "Matthew 6:7-9"
+    ],
+    "title": "Lord's Day 46: The Privilege of Prayer as Adoptive Children",
+    "uri": "http://audio.christurc.org/sermons/2013-11-17-murray-pm.mp3",
+    "speaker": "Mr. Shawn Murray",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "11/03/2013",
+    "passages": [
+      "Exodus 20:17"
+    ],
+    "title": "Lord's Day 44: Coveting Contentment: The Tenth Commandment",
+    "uri": "http://audio.christurc.org/sermons/2013-11-03-davis-pm.mp3",
+    "speaker": "Mr. Nick Davis",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "10/27/2013",
+    "passages": [
+      "Exodus 20:16"
+    ],
+    "title": "Lord's Day 43: From Liars to Truth Bearers: The Ninth Commandment",
+    "uri": "http://audio.christurc.org/sermons/2013-10-27-murray-pm.mp3",
+    "speaker": "Mr. Shawn Murray",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "10/06/2013",
+    "passages": [
+      "Exodus 20:13"
+    ],
+    "title": "Lord's Day 40: The Blood of the Innocence: The Sixth Commandment",
+    "uri": "http://audio.christurc.org/sermons/2013-10-06-davis-pm.mp3",
+    "speaker": "Mr. Nick Davis",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "09/15/2013",
+    "passages": [
+      "Exodus 20:7"
+    ],
+    "title": "Lord's Day 37: Stand By Your Words: The Third Commandment (II)",
+    "uri": "http://audio.christurc.org/sermons/2013-09-15-murray-pm.mp3",
+    "speaker": "Mr. Shawn Murray",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "09/01/2013",
+    "passages": [
+      "Exodus 20:4-6"
+    ],
+    "title": "Lord's Day 35: God's Word is Worth a Thousand Pictures: The Second Commandment",
+    "uri": "http://audio.christurc.org/sermons/2013-09-01-davis-pm.mp3",
+    "speaker": "Mr. Nick Davis",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "08/18/2013",
+    "passages": [
+      "Ephesians 4:17-25"
+    ],
+    "title": "Lord's Day 33: Citizens of the Kingdom: Once Old, Now New",
+    "uri": "http://audio.christurc.org/sermons/2013-08-18-murray-pm.mp3",
+    "speaker": "Mr. Shawn Murray",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "07/21/2013",
+    "passages": [
+      "1 Corinthians 5"
+    ],
+    "title": "Lord's Day 31: Judgment That Is Not Judgmental",
+    "uri": "http://audio.christurc.org/sermons/2013-08-04-davis-pm.mp3",
+    "speaker": "Mr. Nick Davis",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "07/21/2013",
+    "passages": [
+      "1 Corinthians 11:17-34"
+    ],
+    "title": "Lord's Day 29: The Pilgrims' Meal",
+    "uri": "http://audio.christurc.org/sermons/2013-07-21-murray-pm.mp3",
+    "speaker": "Mr. Shaun Murray",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "07/07/2013",
+    "passages": [
+      "Matthew 28:18-20"
+    ],
+    "title": "Lord's Day 27: Infants of Promise: Why We Baptize Believers' Babies",
+    "uri": "http://audio.christurc.org/sermons/2013-07-07-davis-pm.mp3",
+    "speaker": "Mr. Nick Davis",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "06/16/2013",
+    "passages": [
+      "Galatians 2:15-21"
+    ],
+    "title": "Lord's Day 24: Righteous and Free",
+    "uri": "http://audio.christurc.org/sermons/2013-06-16-murray-pm.mp3",
+    "speaker": "Mr. Shaun Murray",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "06/09/2013",
+    "passages": [
+      "2 Corinthians 5:10"
+    ],
+    "title": "Lord's Day 23: Only Jesus Justifies",
+    "uri": "http://audio.christurc.org/sermons/2013-06-09-davis-pm.mp3",
+    "speaker": "Mr. Nick Davis",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "03/03/2013",
+    "passages": [
+      "Psalm 33"
+    ],
+    "title": "Lord's Day 9: I Believe in God the Father",
+    "uri": "http://audio.christurc.org/sermons/2013-03-03-vander_pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "01/20/2013",
+    "passages": [
+      "John 3:1-21"
+    ],
+    "title": "Lord's Day 3: After Darkness, Light",
+    "uri": "http://audio.christurc.org/sermons/2013-01-20-davis-pm.mp3",
+    "speaker": "Mr. Nick Davis",
+    "tags": ["intern"],
+    "categories": ["Heidelberg Catechism"]
+  },
+  {
+    "date": "12/30/2012",
+    "passages": [
+      "Ezra 3:8-13"
+    ],
+    "title": "The Glory Days",
+    "uri": "http://audio.christurc.org/sermons/2012-12-30-huff-pm.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "11/25/2012",
+    "passages": [
+      "Ephesians 6:10-20 "
+    ],
+    "title": "The Armour of the King",
+    "uri": "http://audio.christurc.org/sermons/2012-11-25-link-pm.mp3",
+    "speaker": "Mr. Brenden Link",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "11/04/2012",
+    "passages": [
+      "Mark 15:6-15"
+    ],
+    "title": "Barabbas or Jesus",
+    "uri": "http://audio.christurc.org/sermons/2012-11-04-ventura-pm.mp3",
+    "speaker": "Mr. Daniel Ventura",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "10/28/2012",
+    "passages": [
+      "Ephesians 2:11-18 "
+    ],
+    "title": "The Promise of Peace for All People",
+    "uri": "http://audio.christurc.org/sermons/2012-10-28-davis-pm.mp3",
+    "speaker": "Mr. Nick Davis",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "09/30/2012",
+    "passages": [
+      "Acts 16:25-34 "
+    ],
+    "title": "The Prison House of Sin",
+    "uri": "http://audio.christurc.org/sermons/2012-09-30-massaro-pm.mp3",
+    "speaker": "Mr. Tim Massaro",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "09/23/2012",
+    "passages": [
+      "Psalm 77 "
+    ],
+    "title": "The Appeal of a Troubled Christian",
+    "uri": "http://audio.christurc.org/sermons/2012-09-23-ventura-pm.mp3",
+    "speaker": "Mr. Daniel Ventura",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/29/2012",
+    "passages": [
+      "2 Peter 3:14-18 "
+    ],
+    "title": "Looking to the Future",
+    "uri": "http://audio.christurc.org/sermons/2012-07-29-huff-pm.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/22/2012",
+    "passages": [
+      "2 Peter 3:8-13 "
+    ],
+    "title": "Eternal Investments",
+    "uri": "http://audio.christurc.org/sermons/2012-07-22-huff-pm.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/08/2012",
+    "passages": [
+      "2 Peter 3:1-7 "
+    ],
+    "title": "Words of the Ages",
+    "uri": "http://audio.christurc.org/sermons/2012-07-08-huff-pm.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/08/2012",
+    "passages": [
+      "2 Kings 2:1-25 "
+    ],
+    "title": "God's New Prophet",
+    "uri": "http://audio.christurc.org/sermons/2012-07-08-huff-am.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/01/2012",
+    "passages": [
+      "2 Peter 2:10b-22 "
+    ],
+    "title": "The Way of Bondage",
+    "uri": "http://audio.christurc.org/sermons/2012-07-01-huff-pm.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "06/24/2012",
+    "passages": [
+      "2 Peter 2:1-10a "
+    ],
+    "title": "The Sword that Doesn’t Sleep",
+    "uri": "http://audio.christurc.org/sermons/2012-06-24-huff-pm.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "06/17/2012",
+    "passages": [
+      "2 Peter 1:16-21 "
+    ],
+    "title": "The Certain Return of Christ",
+    "uri": "http://audio.christurc.org/sermons/2012-06-17-huff-pm.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "06/17/2012",
+    "passages": [
+      "Philippians 3:1-11 "
+    ],
+    "title": "Great Losses, Greater Gains",
+    "uri": "http://audio.christurc.org/sermons/2012-06-17-huff-am.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "06/10/2012",
+    "passages": [
+      "2 Peter 1:5-15 "
+    ],
+    "title": "The Dying Pilgrim",
+    "uri": "http://audio.christurc.org/sermons/2012-06-10-huff-pm.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "06/03/2012",
+    "passages": [
+      "2 Peter 1:1-4 "
+    ],
+    "title": "The Fully Furnished Christian",
+    "uri": "http://audio.christurc.org/sermons/2012-06-03-huff-pm.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "04/08/2012",
+    "passages": [
+      "Deuteronomy 31:14-29 "
+    ],
+    "title": "The Song that Testifies",
+    "uri": "http://audio.christurc.org/sermons/2012-04-08-huff-pm.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "02/19/2012",
+    "passages": [
+      "1 John 4:7-21 "
+    ],
+    "title": "God's Love Manifested",
+    "uri": "http://audio.christurc.org/sermons/2012-02-19-massaro-pm.mp3",
+    "speaker": "Mr. Tim Massaro",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "01/22/2012",
+    "passages": [
+      "John 6:25-60"
+    ],
+    "title": "The Bread of Life",
+    "uri": "http://audio.christurc.org/sermons/2012-01-22-link-pm.mp3",
+    "speaker": "Mr. Brenden Link",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "12/18/2011",
+    "passages": [
+      "1 Samuel 4:1-22"
+    ],
+    "title": "Where is the Glory",
+    "uri": "http://audio.christurc.org/sermons/2011-12-18-huff-pm.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "11/27/2011",
+    "passages": [
+      "Mark 10:13-16"
+    ],
+    "title": "Disruptive Disciples, Indignant Grace",
+    "uri": "http://audio.christurc.org/sermons/2011-11-27-massaro-pm.mp3",
+    "speaker": "Mr. Tim Massaro",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "11/13/2011",
+    "passages": [
+      "1 John 5:5-13"
+    ],
+    "title": "The Testimony of God and the Assurance of Faith",
+    "uri": "http://audio.christurc.org/sermons/2011-11-13-perry-pm.mp3",
+    "speaker": "Mr. Aaron Perry",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "10/23/2011",
+    "passages": [
+      "1 John 3:19-24 "
+    ],
+    "title": "Confidence in the Truth",
+    "uri": "http://audio.christurc.org/sermons/2011-10-23-huff-pm.mp3",
+    "speaker": "Mr. Jordan Huff",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "08/28/2011",
+    "passages": [
+      "2 Corinthians 5:11-15 "
+    ],
+    "title": "How the Love of Christ Controls Us",
+    "uri": "http://audio.christurc.org/sermons/2011-08-28-massaro-pm.mp3",
+    "speaker": "Mr. Tim Massaro",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "08/14/2011",
+    "passages": [
+      "Joshua 2 "
+    ],
+    "title": "Harlot as Heroine",
+    "uri": "http://audio.christurc.org/sermons/2011-08-14-link-pm.mp3",
+    "speaker": "Mr. Brenden Link",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/24/2011",
+    "passages": [
+      "John 10:1-18 "
+    ],
+    "title": "The Lord's Shepherd",
+    "uri": "http://audio.christurc.org/sermons/2011-07-24-vander_pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/17/2011",
+    "passages": [
+      "Matthew 13:24-30, 36-43"
+    ],
+    "title": "Seasons of Kingdom Agriculture",
+    "uri": "http://audio.christurc.org/sermons/2011-07-17-vander_pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "05/01/2011",
+    "passages": [
+      "Romans 5:3-6"
+    ],
+    "title": "Christian Virtue and the Cross of Christ",
+    "uri": "http://audio.christurc.org/sermons/2011-05-01-garleb-pm.mp3",
+    "speaker": "Mr. Alex Garleb",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "03/20/2011",
+    "passages": [
+      "Psalm 5 "
+    ],
+    "title": "A Prayerful Sacrifice",
+    "uri": "http://audio.christurc.org/sermons/2011-03-20-vander_pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "02/06/2011",
+    "passages": [],
+    "title": "Matthew 16:13-20",
+    "uri": "http://audio.christurc.org/sermons/2011-02-06-vander_pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "11/28/2010",
+    "passages": [
+      "Genesis 4:1-12, 25, 26"
+    ],
+    "title": "Where Is Our Hope?",
+    "uri": "http://audio.christurc.org/sermons/2010-11-28-stevens-pm.mp3",
+    "speaker": "Mr. Chris Stevens",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "08/22/2010",
+    "passages": [
+      "John 11:17-27"
+    ],
+    "title": "Christ Conquers Death",
+    "uri": "http://audio.christurc.org/sermons/2010-08-22-tedrick-pm.mp3",
+    "speaker": "Mr. Chuck Tedrick",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "08/01/2010",
+    "passages": [
+      "Ephesians 2:11-13"
+    ],
+    "title": "The Sweetness of Being Rescued: God's Rescue from Man-made Religion",
+    "uri": "http://audio.christurc.org/sermons/2010-08-01-stevens-pm.mp3",
+    "speaker": "Mr. Chris Stevens",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/25/2010",
+    "passages": [
+      "Ephesians 1:1-2"
+    ],
+    "title": "All is from God: God's Rescue from Man-made Religion",
+    "uri": "http://audio.christurc.org/sermons/2010-07-25-stevens-pm.mp3",
+    "speaker": "Mr. Chris Stevens",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/18/2010",
+    "passages": [
+      "Judges 17"
+    ],
+    "title": "People's Need for a King: God's Rescue from Man-made Religion",
+    "uri": "http://audio.christurc.org/sermons/2010-07-18-stevens-pm.mp3",
+    "speaker": "Mr. Chris Stevens",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "06/20/2010",
+    "passages": [
+      "Genesis 12:1-9"
+    ],
+    "title": "The Pilgrim's Call",
+    "uri": "http://audio.christurc.org/sermons/2010-06-20-tedrick-pm.mp3",
+    "speaker": "Mr. Chuck Tedrick",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "01/24/2010",
+    "passages": [
+      "Romans 8:1-4"
+    ],
+    "title": "God Did the Impossible",
+    "uri": "http://audio.christurc.org/sermons/2010-01-24-tedrick-pm.mp3",
+    "speaker": "Mr. Chuck Tedrick",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "11/29/2009",
+    "passages": [
+      "Mark 12:41-44"
+    ],
+    "title": "The Music of the Widow",
+    "uri": "http://audio.christurc.org/sermons/2009-11-29-stevens-pm.mp3",
+    "speaker": "Mr. Chris Stevens",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "10/25/2009",
+    "passages": [
+      "Ephesians 4:25-29"
+    ],
+    "title": "New Life in Christ",
+    "uri": "http://audio.christurc.org/sermons/2009-10-25-pm-tedrick-pm.mp3",
+    "speaker": "Mr. Chuck Tedrick",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "09/27/2009",
+    "passages": [
+      "John 18:1-11"
+    ],
+    "title": "The Defeat of Jesus, or His Victory?",
+    "uri": "http://audio.christurc.org/sermons/2009-09-27-stevens-pm.mp3",
+    "speaker": "Mr. Chris Stevens",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "08/02/2009",
+    "passages": [
+      "Psalms 42, 43"
+    ],
+    "title": "Hope in God",
+    "uri": "http://audio.christurc.org/sermons/2009-08-02-tedrick-pm.mp3",
+    "speaker": "Mr. Chuck Tedrick",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/26/2009",
+    "passages": [
+      "Ephesians 5:1-2, 21; 6:1-4"
+    ],
+    "title": "Fathers and Children Walking in Love",
+    "uri": "http://audio.christurc.org/sermons/2009-07-26-vander_pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/19/2009",
+    "passages": [
+      "Psalm 130"
+    ],
+    "title": "Guilt, Grace, and Gratitude",
+    "uri": "http://audio.christurc.org/sermons/2009-07-19-lenzner-pm.mp3",
+    "speaker": "Mr. Brad Lenzner",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "06/28/2009",
+    "passages": [
+      "Psalm 111"
+    ],
+    "title": "Let’s Study and Remember the Great Works of the Lord",
+    "uri": "http://audio.christurc.org/sermons/2009-06-28-vander_pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "06/14/2009",
+    "passages": [
+      "1 Corinthians 2:16"
+    ],
+    "title": "The Mind of Christ",
+    "uri": "http://audio.christurc.org/sermons/2009-06-14-garleb.mp3",
+    "speaker": "Mr. Alex Garleb",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "06/07/2009",
+    "passages": [
+      "Daniel 12:5-13"
+    ],
+    "title": "The Pilgrim Way: Suffering First, Glory Later",
+    "uri": "http://audio.christurc.org/sermons/2009-06-07-lenzner-pm.mp3",
+    "speaker": "Mr. Brad Lenzner",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "05/03/2009",
+    "passages": [
+      "Psalm 73"
+    ],
+    "title": "A Pure Heart in Times of Trouble",
+    "uri": "http://audio.christurc.org/sermons/2009-05-03-tedrick-pm.mp3",
+    "speaker": "Mr. Chuck Tedrick",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "04/05/2009",
+    "passages": [
+      "Psalm 100"
+    ],
+    "title": "A Call to Praise",
+    "uri": "http://audio.christurc.org/sermons/2009-04-05-tedrick-pm.mp3",
+    "speaker": "Mr. Chuck Tedrick",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "03/01/2009",
+    "passages": [
+      "Philippians 4:10-13"
+    ],
+    "title": "Sufficiency Sources",
+    "uri": "http://audio.christurc.org/sermons/2009-03-01-vander_pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "02/01/2009",
+    "passages": [
+      "2 Peter 1:16-21"
+    ],
+    "title": "God Has Spoken",
+    "uri": "http://audio.christurc.org/sermons/2009-02-01-tedrick-pm.mp3",
+    "speaker": "Mr. Chuck Tedrick",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "01/04/2009",
+    "passages": [
+      "John 3:16"
+    ],
+    "title": "The Rest of the Story",
+    "uri": "http://audio.christurc.org/sermons/2009-01-04-vander_pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "12/21/2008",
+    "passages": [
+      "Colossians 1:15-20"
+    ],
+    "title": "The Supremacy of Christ",
+    "uri": "http://audio.christurc.org/sermons/2008-12-21-tedrick-pm.mp3",
+    "speaker": "Mr. Chuck Tedrick",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "12/07/2008",
+    "passages": [
+      "Mark 12:1-12"
+    ],
+    "title": "Violated Expectations",
+    "uri": "http://audio.christurc.org/sermons/2008-12-07-tedrick-pm.mp3",
+    "speaker": "Mr. Chuck Tedrick",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "11/02/2008",
+    "passages": [
+      "John 14:1-11"
+    ],
+    "title": "Only One Way",
+    "uri": "http://audio.christurc.org/sermons/2008-11-02-vanderpol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/27/2008",
+    "passages": [
+      "Song of Solomon 8:6-7"
+    ],
+    "title": "Love: The Flame of the Lord",
+    "uri": "http://audio.christurc.org/sermons/2008-07-27-garleb-pm.mp3",
+    "speaker": "Mr. Alex Garleb",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/20/2008",
+    "passages": [
+      "Song of Solomon 5:6-8"
+    ],
+    "title": "Presence and Absence",
+    "uri": "http://audio.christurc.org/sermons/2008-07-20-garleb-pm.mp3",
+    "speaker": "Mr. Alex Garleb",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": " 04/20/2008",
+    "passages": [
+      "1 John 5:1-12"
+    ],
+    "title": "Christian, What Do You Believe",
+    "uri": "http://audio.christurc.org/sermons/2008-04-20-tedrick-pm.mp3",
+    "speaker": "Mr. Chuck Tedrick",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "02/03/2008",
+    "passages": [
+      "Proverbs 2"
+    ],
+    "title": "Wise with Wisdom",
+    "uri": "http://audio.christurc.org/sermons/2008-02-03-vander-pol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "01/27/2008",
+    "passages": [
+      "1 Samuel 15"
+    ],
+    "title": "Even Israel's King Can Mess Up Worship",
+    "uri": "http://audio.christurc.org/sermons/2008-01-27-vanderpol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "01/13/2008",
+    "passages": [
+      "Psalm 13"
+    ],
+    "title": "Jesus' Sorrow",
+    "uri": "http://audio.christurc.org/sermons/2008-01-13-garleb-pm.mp3",
+    "speaker": "Mr. Alex Garleb",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "11/18/2007",
+    "passages": [
+      "Proverbs 7; 1 Corinthians 2:12-16"
+    ],
+    "title": "A View of Christ Through the Eyes of Lady Wisdom",
+    "uri": "http://audio.christurc.org/sermons/2007-11-18-garleb-pm.mp3",
+    "speaker": "Mr. Alex Garleb",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "10/14/2007",
+    "passages": [
+      "2 Samuel 11; 12:1-15"
+    ],
+    "title": "A View of Christ Through David's Failure and Confession",
+    "uri": "http://audio.christurc.org/sermons/2007-10-14-garleb-pm.mp3",
+    "speaker": "Mr. Alex Garleb",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "08/26/2007",
+    "passages": ["Mark 8:27-33"],
+    "title": "(title missing)",
+    "uri": "http://audio.christurc.org/sermons/2007-08-26-vanderpol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "08/12/2007",
+    "passages": ["Hebrews 9:1-14"],
+    "title": "(title missing)",
+    "uri": "http://audio.christurc.org/sermons/2007-08-12-vanderpol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "04/22/2007",
+    "passages": ["Galatians 1:1-10"],
+    "title": "God's Approval of His Message and His Messenger",
+    "uri": "http://audio.christurc.org/sermons/2007-04-22-vanderpol-pm.mp3",
+    "speaker": "Mr. Mark Vander Pol",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "08/27/2006",
+    "passages": [
+      "Matthew 5:1-20, 43-48"
+    ],
+    "title": "Sermon on the Mount, Part 1",
+    "uri": "http://audio.christurc.org/sermons/2006-08-27-garleb-pm.mp3",
+    "speaker": "Mr. Alex Garleb",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "07/16/2006",
+    "passages": [
+      "Mark 4:24–25"
+    ],
+    "title": "Renamed, Rewritten and Restored",
+    "uri": "http://audio.christurc.org/sermons/2006-07-16-garleb-pm.mp3",
+    "speaker": "Mr. Alex Garleb",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "12/11/2005",
+    "passages": [
+      "Ephesians 4:1-6"
+    ],
+    "title": "Our Unity in Christ",
+    "uri": "http://audio.christurc.org/sermons/2005-12-11-kron-pm.mp3",
+    "speaker": "Mr. Ryan Kron",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "12/11/2005",
+    "passages": [
+      "Matthew 6:5–15"
+    ],
+    "title": "Our Father, Who Art in Heaven",
+    "uri": "http://audio.christurc.org/sermons/2005-12-11-oeverman-am.mp3",
+    "speaker": "Mr. Steve Oeverman",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "12/04/2005",
+    "passages": [
+      "Ephesians 2:11-14"
+    ],
+    "title": "Alienation to Reconciliation",
+    "uri": "http://audio.christurc.org/sermons/2005-12-04-kron-pm.mp3",
+    "speaker": "Mr. Ryan Kron",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "11/27/2005",
+    "passages": ["Psalms 13"],
+    "title": "(title missing)",
+    "uri": "http://audio.christurc.org/sermons/2005-11-27-oeverman-pm.mp3",
+    "speaker": "Mr. Steve Oeverman",
+    "tags": ["intern"],
+    "categories": []
+  },
+  {
+    "date": "08/14/2005",
+    "passages": [
+      "Numbers 6:22-27", "Psalm 67"
+    ],
+    "title": "God’s Blessing for His People",
+    "uri": "http://audio.christurc.org/sermons/2005-08-14-oeverman-pm.mp3",
+    "speaker": "Mr. Steve Oeverman",
+    "tags": ["intern"],
+    "categories": []
+  }
+]
