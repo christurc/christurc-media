@@ -42,6 +42,7 @@ _.each(sermonsPages, function(item) {
 
     assets = assets.concat(guestSermons);
     assets = assets.concat(internSermons);
+    assets = assets.concat(catechisms);
     transform(assets);
 
     fs.writeFile(outputFile, JSON.stringify(assets, null, '  '));

@@ -225,5 +225,21 @@ module.exports = [
     page: 'sermons.html',
     defaultSpeaker: defaultSpeaker,
     parse: parseSermons
+  },
+
+  {
+    categories: [],
+    tags: [],
+    page: 'sermons_ecclesiastes.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseFour
+  },
+
+  {
+    categories: [],
+    tags: [],
+    page: 'sermons_revelation.html',
+    defaultSpeaker: defaultSpeaker,
+    parse: parseFour
   }
 ];
