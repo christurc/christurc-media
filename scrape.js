@@ -13,6 +13,7 @@ var passages = require('./maps/passages').map;
 var dates = require('./maps/dates').map;
 var guestSermons = require("./sermons_guest");
 var internSermons = require("./sermons_interns");
+var catechisms = require("./catechism_horton");
 
 function transform(assets) {
     dates(assets);

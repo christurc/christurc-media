@@ -16,6 +16,11 @@ exports.parse = function(html, sermonPage) {
 
     if($ths.length) {
       topic = $ths.text().trim();
+
+      if(topic === "The Heidelberg Catechism - (Dr. Horton and Others)") {
+        topic = "The Heidelberg Catechism";
+      }
+
       return;
     }
 
@@ -27,10 +32,10 @@ exports.parse = function(html, sermonPage) {
       uri: $('a.link', tds).attr('href') || $('a', tds).attr('href'),
       speaker: sermonPage.defaultSpeaker,
       tags: sermonPage.tags.slice(0),
-      categories: sermonPage.categories
+      categories: sermonPage.categories.slice(0)
     };
 
-    asset.tags.push(topic);
+    asset.categories.push(topic);
 
     // trim double quotes
     asset.title = asset.title.replace(/\"/g, '');
