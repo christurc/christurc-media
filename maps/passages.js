@@ -18,6 +18,9 @@ exports.map = function(assets) {
       passage = passage.replace(/Matt\./, 'Matthew');
       passage = passage.replace(/I Timothy /, '1 Timothy ');
       passage = passage.replace(/I Thessalonians /, '1 Thessalonians ');
+      passage = passage.replace(/2 Peter r/, '2 Peter');
+      passage = passage.replace(/1 Peter r/, '1 Peter');
+      passage = passage.replace(/Psalms/, 'Psalm');
       passage = passage.replace(/\s+/g, ' ');
       asset.passages[i] = passage;
     });

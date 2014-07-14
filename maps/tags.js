@@ -6,6 +6,28 @@ exports.map = function(assets) {
     var tags = {};
     asset.tags.push(asset.speaker.replace(/\./g, ''));
 
+    _.each(asset.passages, function(passage) {
+      var tag;
+
+      // add book of the bible as a tag
+      var matches = /^(\d* \w*).*$/.exec(passage);
+
+      if(matches)
+        tag = matches[1];
+      else {
+        matches = /^(\w*) .*$/.exec(passage);
+
+        if(matches)
+          tag = matches[1];
+      }
+
+      if(!tag)
+        return;
+
+      var nicename = tag.toLowerCase().replace(/ /g, '-');
+      tags[nicename] = tag;
+    });
+
     _.each(asset.tags, function(tag, i) {
       if(tag.indexOf('Advent') >= 0) {
         tag = 'Advent';
