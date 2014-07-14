@@ -5,6 +5,7 @@ var root = 'http://www.christurc.org/';
 var completed = 0;
 var fs = require('fs');
 var outputFile = 'assets.json';
+var catechismsOutputFile = 'catechisms.json';
 var sermonsPages = require('./sermonPages');
 var cleanupAuthors = require('./maps/cleanupAuthors').map;
 var tags = require('./maps/tags').map;
@@ -42,10 +43,11 @@ _.each(sermonsPages, function(item) {
 
     assets = assets.concat(guestSermons);
     assets = assets.concat(internSermons);
-    assets = assets.concat(catechisms);
     transform(assets);
+    transform(catechisms);
 
     fs.writeFile(outputFile, JSON.stringify(assets, null, '  '));
+    fs.writeFile(catechismsOutputFile, JSON.stringify(catechisms, null, '  '));
 
     console.log('Assets found: %s', assets.length);
   });
