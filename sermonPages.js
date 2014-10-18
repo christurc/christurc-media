@@ -15,6 +15,22 @@ var defaultSpeaker = 'Rev. Michael Brown';
 
 module.exports = [
 
+// remove these Lord's Days from Heidelberg series
+// 3
+// 9
+// 23
+// 24
+// 27
+// 29
+// 31
+// 33
+// 35
+// 37
+// 40
+// 43
+// 44
+// 46
+
   // **** these need some manual work
 
   // {
@@ -228,7 +244,7 @@ module.exports = [
   },
 
   {
-    categories: [],
+    categories: ['Ecclesiastes'],
     tags: [],
     page: 'sermons_ecclesiastes.html',
     defaultSpeaker: defaultSpeaker,
@@ -236,7 +252,7 @@ module.exports = [
   },
 
   {
-    categories: [],
+    categories: ['Revelation'],
     tags: [],
     page: 'sermons_revelation.html',
     defaultSpeaker: defaultSpeaker,

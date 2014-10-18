@@ -22,7 +22,7 @@ exports.parse = function(html, sermonPage) {
     var asset = {
       date: tds.eq(0).text(),
       passages: [],
-      title: fixWhiteSpace(tds.eq(2).text()),
+      title: fixWhiteSpace(tds.eq(1).text()),
       uri: $('a.link', tds).attr('href') || $('a', tds).attr('href'),
       speaker: sermonPage.defaultSpeaker,
       tags: sermonPage.tags.slice(0),
